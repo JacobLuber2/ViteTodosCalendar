@@ -36,4 +36,4 @@
 - **Postman**
 
 ### Accessing the project
-- Video demonstration at [Google Drive](https://drive.google.com/drive/folders/1WPtrEO1JeMeknNhpuNRsf7SndHTUCeuy)
+- Video demonstration at [Google Drive](https://drive.google.com/file/d/1mRl_NMJ7dvCWvseZIo1LVq5Bg-ntoKBM/view)
